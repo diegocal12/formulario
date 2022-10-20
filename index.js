@@ -4,6 +4,8 @@ let btnGuardar=document.querySelector("#btnGuardar");
 let btnCancelar=document.querySelector("#btnCancelar");
 
 
+  
+
 
 let lista=document.querySelector(".listaAmigos");
 let formulario=document.querySelector("#formulario");
